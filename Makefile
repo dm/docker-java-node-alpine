@@ -1,6 +1,6 @@
 CONTAINER_NAME = java-node-alpine
 NAME = dmacedo/java-node-alpine
-VERSION = 8u151-8.9.4-alpine3.7
+VERSION = 7u151-8.9.4-alpine3.7
 
 .PHONY: all build test tag_latest release ssh
 

@@ -1,4 +1,4 @@
-FROM openjdk:8u151-jdk-alpine3.7
+FROM openjdk:7u151-jdk-alpine3.7
 
 ENV NODE_VERSION 8.9.4
 
